@@ -1,0 +1,15 @@
+
+
+.header {
+  background-color: #4caf50;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.header h1 {
+  color: white ;
+  margin: 0px;
+  font-size: 30px;
+}
